@@ -1,0 +1,19 @@
+img {
+  position:absolute;
+  
+}
+div {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+}
+#leftSide {
+  text-align: center;
+  left: 500px;
+  border-left: 1px solid black;
+}
+#rightSide {
+  text-align: center;
+  left: 0px;
+  border-right: 1px solid black;
+}
